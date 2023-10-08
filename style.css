@@ -8,3 +8,9 @@ body{
    background-repeat:no-repeat;
    background-size: 100%;
 }
+
+.scary{
+   background-image: url(assets/Untitled.png);
+   background-repeat: no-repeat;
+   width:fit-content;
+}
